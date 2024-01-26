@@ -1,0 +1,364 @@
+{
+  "album": {
+    "name": "Reputation",
+    "songs": [
+      {
+        "name": "...Ready For It?",
+        "length": "3:28",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": " some boys are tryin' too hard He don't try at all, though",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "Touch me and you'll never be alone",
+            "mood": "Lover"
+          },
+          {
+            "number": 3,
+            "content": "In the middle of the night, in my dreams, You should see the things we do, baby",
+            "mood": "Lover"
+          }
+        ]
+      },
+      {
+        "name": "End Game",
+        "length": "4:04",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "I wanna be your endgame, I wanna be your first string ,I wanna be your A-Team ,I wanna be your endgame",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "I got a bad boy persona, that's what they like, You love it, I love it too 'cause you my type, You hold me down and I protect you with my life",
+            "mood": "Lover"
+          }
+        ]
+      },
+      {
+        "name": "I Did Something Bad",
+        "length": "3:58",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "If a man talks shit, then I owe him nothing,I don't regret it one bit, 'cause he had it coming",
+            "mood": "Advice"
+          },
+          {
+            "number": 2,
+            "content": "They're burning all the witches, even if you aren't one,So light me up",
+            "mood": "Advice"
+          }
+        ]
+      },
+      {
+        "name": "Don’t Blame Me",
+        "length": "3:56",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "I once was poison ivy, but now I'm your daisy",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "My name is whatever you decide, And I'm just gonna call you mine",
+            "mood": "Lover"
+          }
+        ]
+      },
+      {
+        "name": "Delicate",
+        "length": "3:52",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "Is it chill that you're in my head?, 'Cause I know that it's delicate",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "Sometimes I wonder, when you sleep, Are you ever dreaming of me?, Sometimes when I look into your eyes, I pretend you're mine all the damn time",
+            "mood": "Lover"
+          }
+        ]
+      },
+      {
+        "name": "Look what You Made Me Do",
+        "length": "3:31",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "I don't trust nobody and nobody trusts me, I'll be the actress starring in your bad dreams",
+            "mood": "vigilante Shit"
+          }
+        ]
+      },
+      {
+        "name": "So It Goes...",
+        "length": "3:47",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "I'm yours to keep, And I'm yours to lose",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "See you in the dark, All eyes on you, my magician",
+            "mood": "Lover"
+          },
+          {
+            "number": 3,
+            "content": "You know I'm not a bad girl, But I do bad things with you",
+            "mood": "Lover"
+          },
+          {
+            "number": 4,
+            "content": "I make all your gray days clear and, Wear you like a necklace, I'm so chill, but you make me jealous,But I got your heart, Skippin', skip-skippin' when I'm gone",
+            "mood": "Lover"
+          }
+        ]
+      },
+      {
+        "name": "Gorgeous",
+        "length": "3:29",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "Whisky on ice, Sunset and Vine, You've ruined my life, by not being mine",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "You're so gorgeous, I can't say anything to your face",
+            "mood": "Lover"
+          }
+        ]
+      },
+      {
+        "name": "End Game",
+        "length": "4:04",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "I wanna be your endgame, I wanna be your first string ,I wanna be your A-Team ,I wanna be your endgame1",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "I got a bad boy persona, that's what they like, You love it, I love it too 'cause you my type, You hold me down and I protect you with my life",
+            "mood": "Lover"
+          }
+        ]
+      },
+      {
+        "name": "Getaway Car",
+        "length": "3:53",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "The ties were black, the lies were white, In shades of gray in candlelight, I wanted to leave him, I needed a reason",
+            "mood": "Lover"
+          }
+        ]
+      },
+      {
+        "name": "King of My Heart",
+        "length": "3:34",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "I'm perfectly fine, I live on my own, I made up my mind, I'm better off being alone",
+            "mood": "Mirrorball"
+          },
+          {
+            "number": 2,
+            "content": "'Cause all the boys in their expensive cars, With their Range Rovers and their Jaguars,Never took me quite where you do",
+            "mood": "Lover"
+          },
+          {
+            "number": 3,
+            "content": "Your love is a secret, I'm hoping, dreaming, dying to keep",
+            "mood": "Lover"
+          },
+          {
+            "number": 4,
+            "content": "The taste of your lips is my idea of luxury",
+            "mood": "Lover"
+          }
+        ]
+      },
+      {
+        "name": "Dancing With Our Hands Tied",
+        "length": "3:31",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "Deep blue, but you painted me golden",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "People started talking, putting us through our paces, I knew there was no one in the world who could take it, I had a bad feeling",
+            "mood": "Lover"
+          },
+          {
+            "number": 3,
+            "content": "I loved you in spite of, Deep fears that the world would divide us",
+            "mood": "Lover"
+          },
+          {
+            "number": 4,
+            "content": "I'm a mess, but I'm the mess that you wanted",
+            "mood": "Lover"
+          }
+          
+        ]
+      },
+      {
+        "name": "Dress",
+        "length": "3:50",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "Our secret moments in your crowded room, They got no idea about me and you",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "Say my name and everything just stops, I don't want you like a best friend",
+            "mood": "Lover"
+          },
+          {
+            "number": 3,
+            "content": "Even in my worst times,You could see the best of me, Flashback to my mistakes, My rebounds, my earthquakes, Even in my worst lies, You saw the truth in me",
+            "mood": "Lover"
+          },
+          {
+            "number": 4,
+            "content": "There is an indentation in the shape of you, Made your mark on me, a golden tattoo",
+            "mood": "Lover"
+          }
+          
+        ]
+      },
+      {
+        "name": "Dancing With Our Hands Tied",
+        "length": "3:50",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "Deep blue, but you painted me golden",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "People started talking, putting us through our paces, I knew there was no one in the world who could take it, I had a bad feeling",
+            "mood": "Lover"
+          },
+          {
+            "number": 3,
+            "content": "I loved you in spite of, Deep fears that the world would divide us",
+            "mood": "Lover"
+          },
+          {
+            "number": 4,
+            "content": "I'm a mess, but I'm the mess that you wanted",
+            "mood": "Lover"
+          }
+          
+        ]
+      },
+      {
+        "name": "This Is Why We Can’t Have Nice Thing",
+        "length": "3:27",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "So why'd you have to rain on my parade?, I'm shaking my head, I'm locking the gates",
+            "mood": "Mirrorball"
+          },
+          {
+            "number": 2,
+            "content": "There I was giving you a second chance, But you stabbed me in the back while shaking my hand, And therein lies the issue, friends don't try to trick you",
+            "mood": "Mirrorball"
+          },
+          {
+            "number": 3,
+            "content": "But I'm not the only friend you've lost lately, If only you weren't so shady",
+            "mood": "Mirrorball"
+          },
+          {
+            "number": 4,
+            "content": "Here's a toast to my real friends, They don't care about the he said, she said",
+            "mood": "Mirrorball"
+          }
+          
+        ]
+      },
+      {
+        "name": "Call It What You Want",
+        "length": "3:23",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "My castle crumbled overnight, I brought a knife to a gunfight, They took the crown, but it's alright, All the liars are calling me one, Nobody's heard from me for months, I'm doing better than I ever was",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "I want to wear his initial, On a chain 'round my neck, chain 'round my neck, Not because he owns me, But 'cause he really knows me",
+            "mood": "Lover"
+          }
+          
+        ]
+      },
+      {
+        "name": "New Year’s Day",
+        "length": "3:55",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "Please don't ever become a stranger, Whose laugh I could recognize anywhere",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "Hold on to the memories, they will hold on to you",
+            "mood": "Lover"
+          },
+          {
+            "number": 3,
+            "content": "You squeeze my hand three times in the back of the taxi, I can tell that it's gonna be a long road",
+            "mood": "Lover"
+          }
+          
+        ]
+      },
+      {
+        "name": "I Dont Wanna Live Forever",
+        "length": "3:31",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "Baby, baby, I feel crazy, Up all night, all night and every day, Give me somethin', oh, but you say nothin',What is happening to me?",
+            "mood": "Mirrorball"
+          },
+          {
+            "number": 2,
+            "content": "I'm sittin' eyes wide open, And I got one thing stuck in my mind, Wonderin' if I dodged a bullet, Or just lost the love of my life, oh",
+            "mood": "Mirrorball"
+          }
+          
+        ]
+      }
+      
+   
+    ]
+  }
+}
