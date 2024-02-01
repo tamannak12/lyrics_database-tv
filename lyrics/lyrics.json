@@ -56,7 +56,7 @@
         ]
       },
       {
-        "name": "Don’t Blame Me",
+        "name": "Don't Blame Me",
         "length": "3:56",
         "lyrics": [
           {
@@ -217,7 +217,6 @@
             "content": "I'm a mess, but I'm the mess that you wanted",
             "mood": "Lover"
           }
-          
         ]
       },
       {
@@ -244,7 +243,6 @@
             "content": "There is an indentation in the shape of you, Made your mark on me, a golden tattoo",
             "mood": "Lover"
           }
-          
         ]
       },
       {
@@ -271,11 +269,10 @@
             "content": "I'm a mess, but I'm the mess that you wanted",
             "mood": "Lover"
           }
-          
         ]
       },
       {
-        "name": "This Is Why We Can’t Have Nice Thing",
+        "name": "This Is Why We Can't Have Nice Thing",
         "length": "3:27",
         "lyrics": [
           {
@@ -298,7 +295,6 @@
             "content": "Here's a toast to my real friends, They don't care about the he said, she said",
             "mood": "Mirrorball"
           }
-          
         ]
       },
       {
@@ -315,11 +311,10 @@
             "content": "I want to wear his initial, On a chain 'round my neck, chain 'round my neck, Not because he owns me, But 'cause he really knows me",
             "mood": "Lover"
           }
-          
         ]
       },
       {
-        "name": "New Year’s Day",
+        "name": "New Year's Day",
         "length": "3:55",
         "lyrics": [
           {
@@ -337,7 +332,6 @@
             "content": "You squeeze my hand three times in the back of the taxi, I can tell that it's gonna be a long road",
             "mood": "Lover"
           }
-          
         ]
       },
       {
@@ -354,11 +348,374 @@
             "content": "I'm sittin' eyes wide open, And I got one thing stuck in my mind, Wonderin' if I dodged a bullet, Or just lost the love of my life, oh",
             "mood": "Mirrorball"
           }
-          
         ]
       }
-      
-   
     ]
   }
-}
+},
+
+{
+  "album": {
+    "name": "Fearless (Taylor's Version)",
+    "songs": [
+      {
+        "name": "Fearless (Taylor's Version)",
+        "length": "4:01",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "You put your eyes on me, In this moment now capture it, remember it",
+            "mood": "Lover"
+          },
+          {
+            "number": 2,
+            "content": "And I don't know how it gets better than this, You take my hand and drag me head first, Fearless",
+            "mood": "Lover"
+          },
+          {
+            "number": 3,
+            "content": "It's the first kiss, it's flawless, really something, it's fearless, Oh, yeah",
+            "mood": "Lover"
+          }
+        ]
+      }
+    ],
+      {
+        "name": "Fifteen (Taylor's Version)",
+        "length": "4:45",
+        "lyrics": [
+          {
+            "number": 1,
+            "content": "It's your freshman year, And you're gonna be here for the next four years, In this town",
+            "mood": "Advice"
+          }
+        ]
+        },
+        {
+          "name": "Love Story (Taylor's Version)",
+          "length": "3:55",
+          "lyrics": [
+            {
+              "number": 1,
+              "content": "We were both young when I first saw you, I close my eyes and the flashback starts, I'm standin' there",
+              "mood": "Lover"
+            },
+          ]
+          },
+          {
+            "name": " Hey Stephenb(Taylor's Version)",
+            "length": "4:14",
+            "lyrics": [
+              {
+                "number": 1,
+                "content": "Come feel this magic I've been feeling since I met you, Can't help it if there's no one else",
+                "mood": "Lover"
+              },
+              {
+                "number": 2,
+                "content": "The way you walk, way you talk, way you say my name, It's beautiful, wonderful, don't you ever change",
+                "mood": "Lover"
+              },
+              {
+                "number": 3,
+                "content": "Hey Stephen, why are people always leaving?, I think you and I should stay the same",
+                "mood": "Lover"
+              },
+              {
+                "number": 4,
+                "content": "Hey Stephen, I could give you 50 reasons, Why I should be the one you choose",
+                "mood": "Lover"
+              },
+            ]
+            },
+            {
+              "name": "White Horse (Taylor's Version)",
+              "length": "3:54",
+              "lyrics": [
+                {
+                  "number": 1,
+                  "content": "Maybe I was naive, got lost in your eyes, And never really had a chance, My mistake, I didn't know to be in love",
+                  "mood": "Champagne problems"
+                },
+              ]
+              },
+              {
+                "name": "You belong with me (Taylor's Version)",
+                "length": "3:51",
+                "lyrics": [
+                  {
+                    "number": 1,
+                    "content": "If you could see that I'm the one, Who understands you, Been here all along, So, why can't you see?, You belong with me",
+                    "mood": "Electric Touch"
+                  },
+                  {
+                    "number": 2,
+                    "content": "And you've got a smile, That can light up this whole town",
+                    "mood": "Electric Touch"
+                  }
+                ]
+              },
+                {
+                  "name": "Breathe (feat. Colbie Caillat)(Taylor's Version)",
+                  "length": "4:23",
+                  "lyrics": [
+                    {
+                      "number": 1,
+                      "content": "It's two am, Feelin' like I just lost a friend, Hope you know this ain't easy, Easy for me",
+                      "mood": "Mirrorball"
+                    },
+                  ]
+                  },
+                  {
+                    "name": "Tell Me Why (Taylor's Version)",
+                    "length": "3:20",
+                    "lyrics": [
+                      {
+                        "number": 1,
+                        "content": "I'm sick and tired of your attitude, I'm feeling like I don't know you, You tell me that you love me, then you cut me down, And I need you like a heartbeat",
+                        "mood": "Champagne problems"
+                      },
+                    ]
+                      {
+                        "number": 2,
+                        "content": "Why do you have to make me feel small, So you can feel whole inside?, Why do you have to put down my dreams, So you're the only thing on my mind?",
+                        "mood": "Champagne problems"
+                      },
+                    },
+                    {
+                      "name": "You're Not Sorry (Taylor's Version)",
+                      "length": "4:21",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "All this time I was wasting, Hoping you would come around, I've been giving out chances every time, And all you do is let me down, And it's taking me this long",
+                          "mood": "Champagne problems"
+                        },
+                        {
+                          "number": 2,
+                          "content": "Why do you have to make me feel small, So you can feel whole inside?, Why do you have to put down my dreams, So you're the only thing on my mind?",
+                          "mood": "Champagne problems"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "The way I loved you (Taylor's Version)",
+                      "length": "4:21",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "But I miss screaming and fighting and kissing in the rain, And it's 2 a.m. and I'm cursing your name, So in love that you act insane, And that's the way I loved you",
+                          "mood": "Electric Touch"
+                        },
+                        {
+                          "number": 2,
+                          "content": "It's a roller coaster kind of rush, And I never knew I could feel that much, And that's the way I loved you",
+                          "mood": "Electric Touch"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "Forever & always (Taylor's Version)",
+                      "length": "3:45",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "you looked me in the eye and told me you loved me",
+                          "mood": "Champagne problems"
+                        },
+                        {
+                          "number": 2,
+                          "content": "Was I out of line?, Did I say something way too honest, made you run and hide, Like a scared little boy",
+                          "mood": "Champagne problems"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "The best day (Taylor's Version)",
+                      "length": "4:05",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "I didn't know if you knew, So I'm taking this chance to say, That I had the best day with you today",
+                          "mood": "Lover"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "Change (Taylor's Version)",
+                      "length": "4:39",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "And it's a sad picture, the final blow hits you, Somebody else gets what you wanted again and,You know it's all the same, another time and place",
+                          "mood": "Champagne problems"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "Jump then fall (Taylor's Version)",
+                      "length": "3:51",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "I like the way you sound in the morning, We're on the phone and without a warning, I realize your laugh is the best sound, I have ever heard",
+                          "mood": "Electric Touch"
+                        },
+                        {
+                          "number": 2,
+                          "content": "Every time you smile, I smile, And every time you shine, I'll shine for you",
+                          "mood": "Electric Touch"
+                        },
+                        {
+                          "number": 3,
+                          "content": "I'm feeling you, baby,  Don't be afraid to jump then fall, Jump then fall into me,  Baby, I'm never gonna leave you, Say that you wanna be with me too, 'Cause I'ma stay through it all, So jump then fall",
+                          "mood": "Electric Touch"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "Untouchable (Taylor's Version)",
+                      "length": "5:12",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "And when you're close, I feel like comin' undone",
+                          "mood": "Lover"
+                        },
+                        {
+                          "number": 2,
+                          "content": "In the middle of the night, when I'm in this dream, It's like a million little stars spellin' out your name, You gotta come on, come on, say that we'll be together",
+                          "mood": "Lover"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "Come In With The Rain (Taylor's Version)",
+                      "length": "3:57",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "I've watched you so long, screamed your name, I don't know what else I can say",
+                          "mood": "Lover"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "Superstar (Taylor's Version)",
+                      "length": "4:23",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "This is wrong, but I can't help but feel like, There ain't nothing more right, babe",
+                          "mood": "Lover"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "The Other Side of The door (Taylor's Version)",
+                      "length": "4:58",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "I said, 'Leave', but all I really want is you",
+                          "mood": "Lover"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "Today was a fairytale (Taylor's Version)",
+                      "length": "4:01",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "Time slows down, Whenever you're around, I can feel my heart, It's beating in my chest, Did you feel it?, I can't put this down",
+                          "mood": "Lover"
+                        },
+                        {
+                          "number": 2,
+                          "content": "You told me I was pretty when I looked like a mess, Today was a fairytale",
+                          "mood": "Lover"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "You all over me (Taylor's Version)",
+                      "length": "3:40",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "The best and worst day of June, Was the one that I met you",
+                          "mood": "Champagne problems"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "Mr. Perfectly fine (Taylor's Version)",
+                      "length": "4:37",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "Hello Mr. 'Perfectly fine', How's your heart after breaking mine?",
+                          "mood": "Champagne problems"
+                        },
+                        {
+                          "number": 2,
+                          "content": "Hello Mr. 'Casually cruel', Mr. 'Everything revolves around you', I've been Miss 'Misery' since your goodbye, And you're Mr. "Perfectly fine"",
+                          "mood": "Champagne problems"
+                        },
+                        {
+                          "number": 1,
+                          "content": "Well, I thought you might be different than the rest, I guess you're all the same",
+                          "mood": "Champagne problems"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "We were happy (Taylor's Version)",
+                      "length": "4:04",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": " I hate those voices, Tellin' me I'm not in love anymore",
+                          "mood": "Champagne problems"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "That's When (Taylor's Version)",
+                      "length": "3:09",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "I said, 'I know', When you said, 'I did you wrong, made mistakes, And put you through all of this''",
+                          "mood": "Champagne problems"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "Don't You (Taylor's Version)",
+                      "length": "3:28",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "Sometimes I really wish that I could hate you, I've tried, but that's just somethin' I can't do, My heart knows what the truth is, I swore I wouldn't do this",
+                          "mood": "Champagne problems"
+                        },
+                      ]
+                    },
+                    {
+                      "name": "Bye Bye Baby (Taylor's Version)",
+                      "length": "4:02",
+                      "lyrics": [
+                        {
+                          "number": 1,
+                          "content": "Bye, bye, to everything I thought was on my side,  Bye, bye, baby, I want you bad but it's come down to nothing, And all I have is your sympathy",
+                          "mood": "Champagne problems"
+                        },
+                      ]
+                    },
+                  }
+                
+              },
+              
+            
